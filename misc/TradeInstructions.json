@@ -1,0 +1,26 @@
+[
+    {
+        "platFormId": "ACCT100",
+        "account": "111-975-233410",
+        "security": "IBM",
+        "type": "BUY",
+        "amount": 100000,
+        "timestamp": "2025-09-27T12:13:14Z"
+    },
+    {
+        "platFormId": "ACCT101",
+        "account": "191-453-933423",
+        "security": "Msft",
+        "type": "Sell",
+        "amount": 300000,
+        "timestamp": "2025-09-27T13:13:14Z"
+    },
+    {
+        "platFormId": "ACCT102",
+        "account": "155-453-445218",
+        "security": "Amzn",
+        "type": "SellShort",
+        "amount": 700000,
+        "timestamp": "2025-09-27T14:13:14Z"
+    }
+]
