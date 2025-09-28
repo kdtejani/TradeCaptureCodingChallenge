@@ -1,0 +1,4 @@
+Sep 28, 2025 4:10:06 PM com.example.instructions.util.TradeInstructionLogger <init>
+INFO: This info message will also go to the file.
+Sep 28, 2025 4:10:06 PM com.example.instructions.util.TradeInstructionLogger <init>
+FINE: This fine message will now be visible in the file.
